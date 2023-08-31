@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>607963692873-d9psn470a4o2gvqaafasug5ilrmi10l2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.607963692873-d9psn470a4o2gvqaafasug5ilrmi10l2</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBPDUc3dreBZEAj8zsWzwf7L9Asqd2lAn8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>607963692873</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.firke.News-iOS-Assignment</string>
+	<key>PROJECT_ID</key>
+	<string>news-ios-cd3d9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>news-ios-cd3d9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:607963692873:ios:dbc4c8f7e27a4e3d132498</string>
+</dict>
+</plist>
